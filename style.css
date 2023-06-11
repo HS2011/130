@@ -1,0 +1,16 @@
+.heading{
+    box-shadow: 5px 5px 10px black;
+}
+#Heading2{
+    box-shadow: 5px 5px 10px black;
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border-color: forestgreen; 
+    border:outset;
+    border-width: 10px;
+    box-shadow: 15px 15px 30px black;
+}
